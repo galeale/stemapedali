@@ -1,7 +1,7 @@
-title: UNCSS
-description: Understudied Networks in Computational Social Science
-baseurl: "/UNCSS" # Lascialo vuoto se usi username.github.io
-url: "https://galeale.github.io/UNCSS" # Sostituisci username con il tuo nome utente GitHub
+title: STEM a Pedali
+description: Un viaggio tra bici e conoscenza
+baseurl: "/stemapedali" # Lascialo vuoto se usi username.github.io
+url: "https://galeale.github.io/stemapedali" # Sostituisci username con il tuo nome utente GitHub
 
 remote_theme: hydecorp/hydejack@v9.2.1
 plugins:
@@ -17,12 +17,12 @@ plugins:
   - jekyll-titles-from-headings
 
 menu:
-  - title: Submit your contribution
-    url:   /submission
-  - title: Program
-    url:   /program
-  - title: Organizers
+  - title: Percorso
+    url:   /percorso
+  - title: Chi Siamo
     url:   /organizers
+  #- title: Sponsor
+    #url:   /sponsor
 
 accent_image:          /sidebar_2.png
 #accent_color:          rgb(118,194,138)
