@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chi Siamo
+permalink: /chisiamo/
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
