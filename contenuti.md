@@ -3,8 +3,9 @@ layout: default
 title: Contenuti
 permalink: /contenuti/
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+Il nostro obiettivo è avvicinare le persone di qualsiasi età alle STEM, offrendo contenuti in due formati distinti: uno dedicato alle classi delle scuole superiori e l'altro alla cittadinanza. Per questa edizione, abbiamo pensato alle seguenti attività:
   <!-- Primo blocco: Immagine e Descrizione -->
   <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
     <img src="nicola_spiega.jpg" alt="Escher" style="width: 150px; height: 150px; object-fit: cover;">
