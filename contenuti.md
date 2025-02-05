@@ -17,7 +17,7 @@ famosa opera di M. C. Escher.
 
   <!-- Secondo blocco: Immagine e Descrizione -->
   <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
-    <img src="note.jpeg" alt="Music Evolution" style="width: 150px; height: 150px; object-fit: cover;">
+    <img src="note.png" alt="Music Evolution" style="width: 150px; height: 150px; object-fit: cover;">
     <p style="margin: 0;"> L’evoluzione della Musica (Galeazzi): La musica è un elemento centrale in moltissime
 culture, che riflette molti aspetti della nostra società. Questa lezione mostrerà come
 l’informatica può svelare i segreti della musica, analizzando le caratteristiche dei vari generi
