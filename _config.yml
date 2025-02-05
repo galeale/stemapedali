@@ -19,6 +19,8 @@ plugins:
 menu:
   - title: Percorso
     url:   /percorso
+  - title: Contenuti
+    url: /contenuti
   - title: Chi Siamo
     url:   /chisiamo
   #- title: Sponsor
