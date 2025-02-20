@@ -15,7 +15,8 @@ permalink: /chisiamo/
   <!-- Secondo blocco: Immagine e Descrizione -->
   <div style="display: flex; align-items: center; gap: 10px; width: 100%;">
     <img src="/galeazzi.jpeg" alt="Alessandro Galeazzi" style="width: 150px; height: 150px; object-fit: cover;">
-    <p style="margin: 0;"> Alessandro Galeazzi ha conseguito il Dottorato di Ricerca in Ingegneria dell'Informazione presso l'Università di Brescia nel 2022. In seguito ha ricoperto la posizione di assegnista di ricerca presso l'Università Ca' Foscari di Venezia Inoltre, ricopre il ruolo di Professore a contratto presso l'Università Ca' Foscari di Venezia. Attualmente ricopre il ruolo di Ricercatore (RTD-A) presso il Dipartimento di Matematica "Tullio Levi-Civita" dell'Università di Padova e di Professore a contratto presso l'Università Ca' Foscari di Venezia. La sua attività di ricerca si concentra sull'analisi dei dati, delle reti e dei sistemi complessi, con particolare interesse per le applicazioni in ambito sociale.</p>
+    <p style="margin: 0;"> Alessandro Galeazzi ha conseguito il Dottorato di Ricerca in Ingegneria dell'Informazione presso l'Università di Brescia nel 2022. In seguito ha ricoperto la posizione di assegnista di ricerca presso l'Università Ca' Foscari di Venezia Inoltre, ricopre il ruolo di Professore a contratto presso l'Università Ca' Foscari di Venezia. Attualmente ricopre il ruolo di Ricercatore (RTD-A) presso il Dipartimento di Matematica "Tullio Levi-Civita" dell'Università di Padova e di Professore a contratto presso l'Università Ca' Foscari di Venezia. La sua attività di ricerca si concentra sull'analisi dei dati, delle reti e dei sistemi complessi, con particolare interesse per le applicazioni in ambito sociale.
+    </p>
   </div>
 
 </div>
