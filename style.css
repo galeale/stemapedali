@@ -7,13 +7,6 @@ body {
     background-color: #f9f9f9;
 }
 
-.site-title {
-    background: url('/unipd_logo.png') no-repeat center;
-    width: 150px; /* Adjust size as needed */
-    height: 50px;
-    text-indent: -9999px; /* Hides text if necessary */
-}
-
 /* Header */
 header {
     background: none;
@@ -107,4 +100,16 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+/* Add logo to the top navigation bar */
+.navbar::before {
+    content: "";
+    display: inline-block;
+    background: url('/unipd_logo.png') no-repeat center;
+    background-size: contain;
+    width: 50px; /* Adjust width */
+    height: 50px; /* Adjust height */
+    margin-right: 10px; /* Spacing from other elements */
+    vertical-align: middle;
 }
