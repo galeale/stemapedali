@@ -7,13 +7,19 @@ body {
     background-color: #f9f9f9;
 }
 
+.site-title {
+    background: url('/unipd_logo.png') no-repeat center;
+    width: 150px; /* Adjust size as needed */
+    height: 50px;
+    text-indent: -9999px; /* Hides text if necessary */
+}
+
 /* Header */
 header {
     background: none;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
-    <img src="/unipd_logo.png" alt="Site Logo">
 }
 
 header h1 {
