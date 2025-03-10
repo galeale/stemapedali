@@ -153,3 +153,5 @@ hydejack:
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
+
+  logo: "/unipd_logo.png"
