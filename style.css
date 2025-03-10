@@ -103,7 +103,7 @@ footer a:hover {
 }
 
 /* Add logo to the top navigation bar */
-.navbar::before {
+.nav-btn-bar::before {
     content: "";
     display: inline-block;
     background: url('/unipd_logo.png') no-repeat center;
