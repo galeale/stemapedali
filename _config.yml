@@ -17,8 +17,8 @@ plugins:
   - jekyll-titles-from-headings
 
 menu:
-  - title: Percorso
-    url:   /percorso
+  #- title: Percorso
+  #  url:   /percorso
   - title: Contenuti
     url: /contenuti
   - title: Chi Siamo
